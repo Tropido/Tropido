@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tropido
+- 👀 I’m interested in Coding & GFX/VFX 
+- 🌱 I’m currently learning JS / PHP / HTML / CSS
+- 📫 How to reach me yassine.bahri@brainacademy.tn
